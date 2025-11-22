@@ -40,3 +40,21 @@
   display: flex;
   flex-wrap: wrap;
 }
+
+.search {
+  margin: 10px;
+}
+
+.login {
+  padding: 5px;
+  margin:15px 15px;
+  cursor: pointer;
+}
+
+.filter {
+  display: flex;
+}
+
+.filter-btn {
+  margin: 10px;
+}
